@@ -1,0 +1,8 @@
+CREATE TABLE `Form` (
+  `FULLNAME` varchar(25) DEFAULT NULL,
+  `EMAIL` varchar(25) NOT NULL DEFAULT '',
+  `ROOMS` decimal(10,0) DEFAULT NULL,
+  `ADULTS` decimal(10,0) DEFAULT NULL,
+  `CHILDRENS` decimal(10,0) DEFAULT NULL,
+  PRIMARY KEY (`EMAIL`)
+)
