@@ -4,5 +4,7 @@ CREATE TABLE `Form` (
   `ROOMS` decimal(10,0) NOT NULL,
   `ADULTS` decimal(10,0) NOT NULL,
   `CHILDRENS` decimal(10,0) NOT NULL,
+  `CHECKIN` date	NOT NULL,
+  `CHECKOUT` date NOT NULL,
   PRIMARY KEY (`EMAIL`)
 )
