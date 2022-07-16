@@ -1,4 +1,5 @@
-# Created front end of hotel room reservation form 
-# Functionalities include entering name, email address, check in and check out date, number of rooms a person wants to book and at last how many adults and how many children are going to stay
-# Back-end of this webpage is written in Php and MySQL
-# Link: http://apollo.humber.ca/~n01330428/Naman/Form.html
+# The purpose of this project is to implement the front and backend of a system. 
+# The front end of the website is written in HTML,CSS,Bootstrap and Media queries which takes the user’s input and once submitted saves that data on the backend side using PHP and MySQL database 
+# With such system the owner of the hotel can keep digital records of the number of rooms booked for a particular day as well as avoid any duplicate/invalid entry during the reservation time
+# By combining this data with PowerBI, owners can predict average number of rooms booked during the peak and off-peak seasons and in turn plan their budget accordingly
+
